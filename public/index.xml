@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Esbart Dansaire de Castellbisbal</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on Esbart Dansaire de Castellbisbal</description>
+		<generator>Hugo</generator>
+		<language>ca-es</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 23 Jun 2026 16:33:22 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nosaltres</title>
+				<link>http://localhost:1313/nosaltres/</link>
+				<pubDate>Tue, 23 Jun 2026 16:33:22 +0200</pubDate>
+				<guid>http://localhost:1313/nosaltres/</guid>
+				<description>&lt;h2 id=&#34;com-molem&#34;&gt;Com molem&lt;/h2&gt;&#xA;&lt;p&gt;Vam néixer el dia tal per a fer tal qual i pasqual, i és que com molem. Tio.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sant Joan 2026</title>
+				<link>http://localhost:1313/actuacions/2026-06-24/</link>
+				<pubDate>Tue, 23 Jun 2026 15:49:47 +0200</pubDate>
+				<guid>http://localhost:1313/actuacions/2026-06-24/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;24 de Juny de 2026&lt;/li&gt;&#xA;&lt;li&gt;Plaça de l&amp;rsquo;Església, Castellbisbal&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>Trobada Montserratines 2026</title>
+				<link>http://localhost:1313/actuacions/2026-07-11/</link>
+				<pubDate>Mon, 22 Jun 2026 15:49:47 +0200</pubDate>
+				<guid>http://localhost:1313/actuacions/2026-07-11/</guid>
+				<description>&lt;ul&gt;&#xA;&lt;li&gt;11 de Juliol de 2026&lt;/li&gt;&#xA;&lt;li&gt;Esparraguera&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+	</channel>
+</rss>

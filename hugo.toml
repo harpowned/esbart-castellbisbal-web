@@ -1,0 +1,32 @@
+baseURL = 'https://esbartdansairecastellbisbal.cat/'
+locale = 'ca-es'
+title = 'Esbart Dansaire de Castellbisbal'
+theme = 'ananke'
+enableRobotsTXT = true
+
+[params]
+site_logo = "img/logo_esbart.jpg"
+read_more_copy = "llegeix-ne més"
+
+[params.ananke.pages]
+show_date = false
+
+[menus]
+[[menus.main]]
+name = "Nosaltres"
+url = "/nosaltres/"
+weight =  10
+
+[[menus.main]]
+name = "Actuacions"
+url = "/actuacions"
+weight = 20
+
+[params.ananke.social.follow]
+new_window_icon = true
+networks = [
+  "instagram"
+]
+
+[params.ananke.social.instagram]
+username = "esbartdansairedecastellbisbal"
