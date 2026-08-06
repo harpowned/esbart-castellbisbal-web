@@ -4,6 +4,7 @@ locale = 'ca-es'
 title = 'Esbart Dansaire de Castellbisbal'
 theme = 'ananke'
 enableRobotsTXT = true
+enableEmoji = true
 
 [params]
 site_logo = "img/logo_esbart.jpg"
