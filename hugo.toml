@@ -1,5 +1,5 @@
 #baseURL = 'https://esbartdansairecastellbisbal.cat/'
-baseURL = 'https://esbartdansairecastellbisbal.cat/futur'
+baseURL = 'https://esbartdansairecastellbisbal.cat/futur/'
 locale = 'ca-es'
 title = 'Esbart Dansaire de Castellbisbal'
 theme = 'ananke'
